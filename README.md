@@ -13,4 +13,6 @@ A collection of todo-list project for React, Javascript, Typescript, CSS beginne
 
 ## Tools/Book
 * [HTML Tutorial(w3schools)](https://www.w3schools.com/tags/tag_comment.asp) - The HTML tutorial from w3schools.
- 
+* [Building Your First Web Page](https://learn.shayhowe.com/html-css/building-your-first-web-page/) - Within this book I’m going to show you how to build your own websites using the two most dominant computer languages—HTML and CSS.
+
+
