@@ -11,6 +11,7 @@ A collection of todo-list project for React, Javascript, Typescript, CSS beginne
 * [React+Javascript](https://github.com/gbopola/todolist-app-react-js) - To-do List in React JS.
 
 
-
- 
+## Tools/Book
+* [HTML Tutorial(w3schools)](https://www.w3schools.com/tags/tag_comment.asp) - The HTML tutorial from w3schools.
+* 
  
