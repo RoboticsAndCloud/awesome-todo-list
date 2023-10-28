@@ -8,10 +8,9 @@ A collection of todo-list project for React, Javascript, Typescript, CSS beginne
 * [React+Redux](https://github.com/codebucks27/React-Redux-Todo-App) - Build a CRUD application with React and Redux. Use Redux toolkit to build this todo app with cool animations using framer-motion. If you want to learn it then you can follow the tutorial given in the readme fil.
 * [React+Javascript+Redux](https://github.com/TechnicalShree/Simple-Todo-App-using-React-Redux) - The website shows how to create todo lists based on React,Redux, Javascript.
 * [React+Javascript](https://github.com/MatheusCavini/ReactJS-ToDoList) - To-do List in React JS.
-* [React+Javascript](https://github.com/gbopola/todolist-app-react-js) - To-do List in React JS.
+* [React+Javascript](https://github.com/gbopola/todolist-app-react-js) - To-do List app in React JS.
 
 
 ## Tools/Book
 * [HTML Tutorial(w3schools)](https://www.w3schools.com/tags/tag_comment.asp) - The HTML tutorial from w3schools.
-* 
  
