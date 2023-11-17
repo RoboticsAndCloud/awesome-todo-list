@@ -9,6 +9,7 @@ A collection of todo-list project for React, Javascript, Typescript, CSS beginne
 * [React+Javascript+Redux](https://github.com/TechnicalShree/Simple-Todo-App-using-React-Redux) - The website shows how to create todo lists based on React,Redux, Javascript.
 * [React+Javascript](https://github.com/MatheusCavini/ReactJS-ToDoList) - To-do List in React JS.
 * [React+Javascript](https://github.com/gbopola/todolist-app-react-js) - To-do List app in React JS.
+* [Javascript](https://github.com/mayankagarwal09/dev-portfolio) - A fully customizable developer portfolio website made in react with dark mode support
 
 ## Portfolio Project
 * [React+Javascript](https://github.com/shloksomani/react-portfolio) - A boilerplate portfolio in react
